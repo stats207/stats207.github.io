@@ -8,15 +8,26 @@ directly, or leave anonymous feedback for the instructional team by using our [o
 
 ## Overview of the course
 
-TBD
+•L1: Course outline, examples of time series data
+•L2: Models for time series data, stationarity, autocorrelation, and basic theoretical constructs
+•L3: Trend models and data wrangling
+•L4: AR, MA models, causality, invertibility
+•L5: ARMA models
+•L6: Forecasting, metrics
+•L7: Estimation
+•L8: ARIMA/SARIMA
+•L9-L10: Spectral methods
+•L11-L13: State space models
+•L14: Multivariate time series: VAR model, Granger causality
+•L15: Continuous and non-real-valued time series
+•L16: Nonlinear models: Switching state space models, XGBoost
+•L17-L19: Deep Learning methods
+•L20: Review
 
-**Prerequisites**: TBD
-
-**Course Requirements**: TBD
+**Prerequisites**: basic course in Statistics at the level of 200
+**Course Requirements**: Familiarity with a programming language.
  
-**Lectures**:
- 
-**Website**: The primary web site for the class is [stats207.github.io](http://stats207.github.io). We will also use [Canvas](https://canvas.stanford.edu) for class lecture recordings.
+**Website**: The primary web site for the class is [stats207.stanford.edu](http://stats207.github.io). We will also use [Canvas](https://canvas.stanford.edu) for class lecture recordings.
 
 **Discussion**.  We will use Ed to allow you to get help efficiently from both your classmates and the instructors ([class Ed page](Ed)). Please post your questions about the course material and course logistics to Ed so that everyone can benefit from the answer. We also highly encourage you to answer your classmates’ questions whenever possible – you will get extra practice with the material and receive feedback from the teaching team about your answers. As an added incentive, students who provide frequent, high-quality answers may receive extra credit on their final course grades. Additional guidelines about posting on Ed are available on the [Ed page](https://edstem.org).
 
