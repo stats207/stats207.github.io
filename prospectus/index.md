@@ -32,22 +32,18 @@ directly, or leave anonymous feedback for the instructional team by using our [o
 
 **Discussion**.  We will use Ed to allow you to get help efficiently from both your classmates and the instructors ([class Ed page](Ed)). Please post your questions about the course material and course logistics to Ed so that everyone can benefit from the answer. We also highly encourage you to answer your classmates’ questions whenever possible – you will get extra practice with the material and receive feedback from the teaching team about your answers. As an added incentive, students who provide frequent, high-quality answers may receive extra credit on their final course grades. Additional guidelines about posting on Ed are available on the [Ed page](https://edstem.org).
 
-**Materials**: 
-The main resources for this class are:
-TBD
-
 The VPTL office offers tutoring for this class by appointment, which can be scheduled [here](https://learningconnection.stanford.edu/appointments-and-drop-schedule).
 
 ## Assessment and grading
 - Homework assignments (40%)
- - Start early!
- - HW 1 (20%), HW 2 (20%)
+  - Start early!
+  - HW 1 (20%), HW 2 (20%)
 - Midterm take-home exam (25%)
- - Start early!
+  - Start early!
 - Final project (35%)
- - Midway report (20%)
- - Project presentation (20%)
- - Final paper (60%)
+  - Midway report (20%)
+  - Project presentation (20%)
+  - Final paper (60%)
 
 ### Collaboration policy
 - Every student must first attempt all problems individually
