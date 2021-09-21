@@ -8,23 +8,24 @@ directly, or leave anonymous feedback for the instructional team by using our [o
 
 ## Overview of the course
 
-•L1: Course outline, examples of time series data
-•L2: Models for time series data, stationarity, autocorrelation, and basic theoretical constructs
-•L3: Trend models and data wrangling
-•L4: AR, MA models, causality, invertibility
-•L5: ARMA models
-•L6: Forecasting, metrics
-•L7: Estimation
-•L8: ARIMA/SARIMA
-•L9-L10: Spectral methods
-•L11-L13: State space models
-•L14: Multivariate time series: VAR model, Granger causality
-•L15: Continuous and non-real-valued time series
-•L16: Nonlinear models: Switching state space models, XGBoost
-•L17-L19: Deep Learning methods
-•L20: Review
+- L1: Course outline, examples of time series data
+- L2: Models for time series data, stationarity, autocorrelation, and basic theoretical constructs
+- L3: Trend models and data wrangling
+- L4: AR, MA models, causality, invertibility
+- L5: ARMA models
+- L6: Forecasting, metrics
+- L7: Estimation
+- L8: ARIMA/SARIMA
+- L9-L10: Spectral methods
+- L11-L13: State space models
+- L14: Multivariate time series: VAR model, Granger causality
+- L15: Continuous and non-real-valued time series
+- L16: Nonlinear models: Switching state space models, XGBoost
+- L17-L19: Deep Learning methods
+- L20: Review
 
 **Prerequisites**: basic course in Statistics at the level of 200
+
 **Course Requirements**: Familiarity with a programming language.
  
 **Website**: The primary web site for the class is [stats207.stanford.edu](http://stats207.github.io). We will also use [Canvas](https://canvas.stanford.edu) for class lecture recordings.
@@ -38,32 +39,26 @@ TBD
 The VPTL office offers tutoring for this class by appointment, which can be scheduled [here](https://learningconnection.stanford.edu/appointments-and-drop-schedule).
 
 ## Assessment and grading
+- Homework assignments (40%)
+ - Start early!
+ - HW 1 (20%), HW 2 (20%)
+- Midterm take-home exam (25%)
+ - Start early!
+- Final project (35%)
+ - Midway report (20%)
+ - Project presentation (20%)
+ - Final paper (60%)
 
-TBD
+### Collaboration policy
+- Every student must first attempt all problems individually
+- You may discuss a homework assignment with up to two classmates
+- Each student must write up his/her own solutions and code individually
+- Explicitly name any collaborators at the top of the homework
+- Please don’t search for answers on the web, Google, etc.
+ - please ask us if you are not sure if you can use a particular reference
 
-**Assignments**:
+###Regrade requests
+- Must wait 24 hours before submitting a regrade request after grading has been published
+- Subsequently, requests submitted via Gradescope within one week of grades being published
  
 **Grade disputes**:  Students must wait 24 hours after receiving a grade before they can dispute it, after which disputes must be received within 7 days of receipt of the grade. Grade disputes must be submitted to the instructional team on Gradescope.
-
-## General course policies
-
-**Gender expression/identity:**
-This course affirms people of all gender expressions and gender identities. If you prefer to be called a different name than what is indicated on the class roster, please let me know. Feel free to correct me on your preferred gender pronoun. If you have any questions or concerns, please do not hesitate to contact me.
-
-**Code of conduct:**
-You are expected to treat the instructional team and your fellow students with courtesy and respect.
-This class should be a harassment-free learning experience for everyone regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion. Harassment of any form will not be tolerated.
-If someone makes you or anyone else feel unsafe or unwelcome, please report it as soon as possible to one of the instructors. If you are not comfortable approaching the instructional team, you may also contact the [Stanford Office of the Ombuds](https://ombuds.stanford.edu/)
-
-**Students with Documented Disabilities:**
-If you have an OAE letter, please present it to us (by email to the staff llist) at your earliest convenience, so we can ensure that the course materials and staff support comply with your needs. 
-
-**Financial accessibility**
-Stanford University and its instructors are committed to ensuring that all courses are financially accessible to all students. If you are an undergraduate who needs assistance with the cost of course textbooks, supplies, materials and/or fees, you are welcome to approach me directly. If would prefer not to approach me directly, please note that you can ask the Diversity & First-Gen Office for assistance by completing their [questionnaire on course textbooks & supplies](http://tinyurl.com/jpqbarn) or by contacting Joseph Brown, the Associate Director of the Diversity and First-Gen Office (jlbrown@stanford.edu). Dr. Brown is available to connect you with resources and support while ensuring your privacy.
-
-## Course assistance and personal support
-
-In every quarter we have taught, there have been individual students who have encountered life-altering challenges, so it is not the case that empathy and compassion have only just become relevant. However, the magnitude of the current crisis underscores the need to support each other. If you feel overwhelmed for any reason—by work for this class, or a family issue, or just the weight of the present moment for the globe, please don’t hesitate to reach out. Or, if you just need to talk, or have us send you a kitten video, or if you need extra tutoring support in the class, we are here for you. Please ask us. *Please ask us.* 
-
-## Acknowledgments
-TBD
