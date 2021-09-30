@@ -9,8 +9,9 @@ title: Stats 207
  
 **Instructor**: [Emily Fox](https://homes.cs.washington.edu/~ebfox/). Office Hours: our outdoor classroom.
 
-**Office Hours**: TBD.
-If OH times don't work for you, or you need one-one help, please use Ed or email one of the TAs.
+**Office Hours**
+- Tim Sudijono: Monday 1:30-2:30pm, in-person location (TBD). Tuesday 3:15-4:15pm, virtually via Zoom
+- Ismael Lemhadri: Wednesday 10:45-11:30AM, Sequoia Hall Rm 200
 
 **Teaching Assistants**: Timothy Sudijono (tsudijon@stanford.edu) - Ismael Lemhadri (lemhadri@stanford.edu)
 
